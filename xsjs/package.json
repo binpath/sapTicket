@@ -1,0 +1,22 @@
+{
+  "name": "sapTicket-xsjs-service",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "stop": ""
+  },
+  "files": [],
+  "dependencies": {
+    "@sap/xsenv": "^2",
+    "@sap/xsjs": "^6",
+    "@sap/cds": "1.15.1"
+  },
+  "devDependencies": {
+    "@sap/xsjs-test": "^3"
+  },
+  "engines": {
+    "node": "^10 || ^12 || ^14"
+  }
+}
